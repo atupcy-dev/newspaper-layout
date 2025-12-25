@@ -14,4 +14,3 @@ This project focuses on typography, grid layout, and clean content structure.
 - CSS3
 
 ## Live Demo
-https://oladejokhadijat1999-a11y.github.io/newspaper-layout/
