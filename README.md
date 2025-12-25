@@ -14,3 +14,4 @@ This project focuses on typography, grid layout, and clean content structure.
 - CSS3
 
 ## Live Demo
+https://atupcy-dev.github.io/newspaper-layout/
